@@ -7,4 +7,7 @@
 It will then produce a txt file which contains all of the unique words present in the pdf document, complemented by the page 
 that the words appear. 
 
+- [x] Adapted to Windows
+- [ ] Adapted to everything else
+
 ###### 2018 Ali Rassolie 
