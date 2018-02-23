@@ -1,5 +1,7 @@
 # IndexerRetro
 
+Is a small script that will index pdf files, after having been forced to do this, when realizing that the price that Adobe demands for the same service is 300$ per year. 
+
 *To run:*
 
 **`python indexerRetro.py --parent [Abs path to parent dir of pdf] --file [pdf name] --output [file name]`**
